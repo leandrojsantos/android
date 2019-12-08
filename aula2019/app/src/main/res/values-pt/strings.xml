@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- BottomNavigation -->
+    <string name="repository">Repositórios</string>
+    <string name="gist">Gists</string>
+
+    <!-- RepositoryFragment -->
+    <string name="empty_list_repository">Lista de Repositórios vazia</string>
+    <string name="api_error">API está com algum problema</string>
+    <string name="network_error">Erro com a internet</string>
+    <string name="repository_without_license">Repositório sem licença</string>
+
+    <!-- GistFragment -->
+    <string name="empty_list_gist">Empty Gist List</string>
+</resources>

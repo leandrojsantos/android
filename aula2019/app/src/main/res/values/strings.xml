@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">First Application</string>
+
+    <!-- BottomNavigation -->
+    <string name="repository">Repository</string>
+    <string name="gist">Gists</string>
+
+    <!-- RepositoryFragment -->
+    <string name="empty_list_repository">Empty Repository List</string>
+    <string name="api_error">API Error</string>
+    <string name="network_error">Network error</string>
+    <string name="repository_without_license">Repository without License</string>
+
+    <!-- GistFragment -->
+    <string name="empty_list_gist">Empty Gist List</string>
+</resources>
