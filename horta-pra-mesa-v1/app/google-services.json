@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "630065455902",
+    "firebase_url": "https://hortapramesa2017.firebaseio.com",
+    "project_id": "hortapramesa2017",
+    "storage_bucket": "hortapramesa2017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630065455902:android:d2984d7bee71dd9b",
+        "android_client_info": {
+          "package_name": "hortapramesa.horta1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630065455902-t8qc56f17dngce6a9kbbckkor7sqovpm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hortapramesa.horta1",
+            "certificate_hash": "3945afd7558077edc3338307de2301f6f008ee6c"
+          }
+        },
+        {
+          "client_id": "630065455902-qcmccetg93t4d0fcu2oiek9qrtvi5gjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfVOQmNXoQTsqKmOcu4QXegEO_TBVTiog"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630065455902-qcmccetg93t4d0fcu2oiek9qrtvi5gjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
